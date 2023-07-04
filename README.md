@@ -1,4 +1,5 @@
 ### Hi there 👋
+![giphy](https://github.com/thomas-d-harrison/thomas-d-harrison/assets/114378808/36ec8991-cf9a-462a-8a29-c1dfee3f35b2)
 
 <!--
 **thomas-d-harrison/thomas-d-harrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
