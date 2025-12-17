@@ -1,18 +1,27 @@
-### Hi, Welcome to my GitHub 👋
+# Hi, I'm Thomas 👋
 
-![github_banner](https://github.com/thomas-d-harrison/thomas-d-harrison/assets/114378808/4fdfa597-6bd9-4f71-8da2-4e58a5068bdc)
+## 📊 Data Engineer
 
-<!--
-**thomas-d-harrison/thomas-d-harrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with data pipelines using:
 
-Here are some ideas to get you started:
+**Tools & Technologies:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🔧 What I Do
+
+- 📊 Build data pipelines
+- 🔍 Write SQL queries and analytics
+- 🐍 Automate workflows with Python and Azure
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/thomas-d-harrison/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.d.harrison@outlook.coml)
