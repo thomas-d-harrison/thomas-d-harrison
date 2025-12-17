@@ -16,8 +16,8 @@ I work with data pipelines using:
 ## 🔧 What I Do
 
 - 📊 Build data pipelines
-- 🔍 Write SQL queries and analytics
-- 🐍 Automate workflows with Python and Azure
+- 🔍 Write SQL queries
+- 🐍 Automate workflows with Python
 
 ---
 
