@@ -15,6 +15,7 @@ I work with data pipelines using:
 
 ## 🔧 What I Do
 
+- ☁️ Engineer cloud data platforms
 - 📊 Build data pipelines
 - 🔍 Write SQL queries
 - 🐍 Automate workflows with Python
